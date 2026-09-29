@@ -1,0 +1,7 @@
+out/
+data/*.csv
+data/*.pdf
+data_synthetic/
+.env
+__pycache__/
+eval/to_label.csv
